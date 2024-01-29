@@ -1,0 +1,4 @@
+# Input file
+*.xml
+# Comparison or output file
+*.yaml
